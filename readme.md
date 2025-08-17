@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ambali</h1>
-<h3 align="center">currently pursuing computer engineering (FY)</h3>
+<h3 align="center">currently pursuing computer engineering (TY)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambfr&label=Profile%20views&color=0e75b6&style=flat" alt="ambfr" /> </p>
 
