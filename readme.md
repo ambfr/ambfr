@@ -2,7 +2,6 @@
 💻 Computer Engineering | 3rd year<br/>
 🛠️ Not a hardcore coder, but getting the job done<br/>
 📈 Still figuring things out<br/>
-🧪 Exploring Hack The Box & system security<br/>
 
 
 ![Ambali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambfr&show_icons=true&theme=tokyonight)<br/>
