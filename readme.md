@@ -4,7 +4,6 @@
 📈 Still figuring things out<br/>
 
 
-![Ambali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambfr&show_icons=true&theme=tokyonight)<br/>
 
 
 # 💻 Tech Stack:
