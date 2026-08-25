@@ -1,38 +1,79 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=120&section=header)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,100:30261f&height=170&section=header&text=hi%2C%20i'm%20Ambali%20%E2%99%A1&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A0A0A0&center=true&vCenter=true&width=500&lines=Computer+Engineering+%7C+Final+Year;into+data+%2B+AI+these+days;always+tinkering+with+something+new)
+### `just here to build things & learn along the way ♡`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=D8C4B6&center=true&vCenter=true&width=650&lines=welcome+to+my+little+corner+%E2%99%A1;currently+figuring+things+out+%E2%98%95;writing+code+%26+breaking+code+%F0%9F%92%BB;crocheting+instead+of+sleeping+%F0%9F%A7%B6;collecting+side+quests+%E2%9C%A8;one+commit+at+a+time+%F0%9F%8C%B1" alt="Typing animation"/>
 
 </div>
 
-### Ambali
+<br>
 
-Final-year Computer Engineering student, currently exploring data analytics and AI.
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### ☕ currently
+
+```text
+building     → things that interest me
+learning     → cybersecurity + AI+ DA
+crocheting   → when code gets annoying
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧶 a few things about me
+
+```text
+♡ computer engineering
+♡ curious about AI & data
+♡ loves making things
+♡ crochet is my favorite side quest
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+## ✦ things i've been making
+
+</div>
+
+### 🐇 Internet Rabbit Hole Explorer
+
+> A full-stack app for exploring connected topics and discovering where one rabbit hole leads next.
+
+`React` `React Flow` `FastAPI` `MongoDB` `JWT` `Groq`
 
 ---
 
-**Recent work**
+### 🤖 AI SOC Analyst
 
-- **Rabbit Hole Explorer** — Knowledge graph explorer with random-walk discovery mode; React, FastAPI, JWT auth
-- **Watchtower** — AI-driven SOC log analyzer that maps activity to MITRE ATT&CK; Go, SvelteKit, Groq
-- **Parsely** — AI code explainer with configurable personality modes; Groq/Llama 3.3, Supabase
+> Exploring how AI can assist with cybersecurity analysis and SOC workflows.
+
+`Python` `AI` `Cybersecurity`
+
+---
+
+### 🏠 Home Maintenance
+
+> A desktop application for managing household services, bookings and feedback.
+
+`Python` `CustomTkinter` `SQLite`
 
 ---
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=py,go,react,fastapi,js,git&theme=dark)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ambfr&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
+`☕` code a little　·　`🧶` crochet a little　·　`🌙` repeat
 
 </div>
-
-
-
-
-
-
-
-
-
