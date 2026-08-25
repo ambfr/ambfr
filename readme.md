@@ -16,11 +16,9 @@
 
 ### ☕ currently
 
-```text
-building     → things that interest me
-learning     → cybersecurity + AI+ DA
-crocheting   → when code gets annoying
-```
+💻 **building** → things that interest me  
+🔐 **learning** → cybersecurity + AI & data  
+🧶 **crocheting** → when code gets annoying  
 
 </td>
 
@@ -28,12 +26,10 @@ crocheting   → when code gets annoying
 
 ### 🧶 a few things about me
 
-```text
-♡ computer engineering
-♡ curious about AI & data
-♡ loves making things
-♡ crochet is my favorite side quest
-```
+♡ **computer engineering student**  
+♡ **curious about AI & data**  
+♡ **always learning something new**  
+♡ **easily distracted by yarn**  
 
 </td>
 </tr>
